@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="380"
+   height="200"
+   version="1.1"
+   id="svg69"
+   sodipodi:docname="drapeau_us.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.4738462"
+     inkscape:cx="154.61754"
+     inkscape:cy="99.238184"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69" />
+  <defs
+     id="defs47">
+    <polygon
+       id="pt"
+       points="0,-0.5 0.16245985,0 -0.16245985,0 "
+       transform="scale(0.0616)"
+       fill="#ffffff" />
+    <g
+       id="star">
+      <use
+         xlink:href="#pt"
+         transform="rotate(-144)"
+         id="use3" />
+      <use
+         xlink:href="#pt"
+         transform="rotate(-72)"
+         id="use5" />
+      <use
+         xlink:href="#pt"
+         id="use7" />
+      <use
+         xlink:href="#pt"
+         transform="rotate(72)"
+         id="use9" />
+      <use
+         xlink:href="#pt"
+         transform="rotate(144)"
+         id="use11" />
+    </g>
+    <g
+       id="s5">
+      <use
+         xlink:href="#star"
+         x="-0.252"
+         id="use14" />
+      <use
+         xlink:href="#star"
+         x="-0.126"
+         id="use16" />
+      <use
+         xlink:href="#star"
+         id="use18" />
+      <use
+         xlink:href="#star"
+         x="0.126"
+         id="use20" />
+      <use
+         xlink:href="#star"
+         x="0.252"
+         id="use22" />
+    </g>
+    <g
+       id="s6">
+      <use
+         xlink:href="#s5"
+         x="-0.063000001"
+         id="use25" />
+      <use
+         xlink:href="#star"
+         x="0.315"
+         id="use27" />
+    </g>
+    <g
+       id="x4">
+      <use
+         xlink:href="#s6"
+         id="use30" />
+      <use
+         xlink:href="#s5"
+         y="0.054000001"
+         id="use32" />
+      <use
+         xlink:href="#s6"
+         y="0.108"
+         id="use34" />
+      <use
+         xlink:href="#s5"
+         y="0.162"
+         id="use36" />
+    </g>
+    <g
+       id="u">
+      <use
+         xlink:href="#x4"
+         y="-0.21600001"
+         id="use39" />
+      <use
+         xlink:href="#x4"
+         id="use41" />
+      <use
+         xlink:href="#s6"
+         y="0.21600001"
+         id="use43" />
+    </g>
+    <rect
+       id="stripe"
+       width="1235"
+       height="50"
+       fill="#bb133e"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     id="g364"
+     transform="scale(0.30769231)">
+    <rect
+       width="1235"
+       height="650"
+       fill="#ffffff"
+       id="rect49"
+       x="0"
+       y="0" />
+    <use
+       xlink:href="#stripe"
+       id="use51" />
+    <use
+       xlink:href="#stripe"
+       y="100"
+       id="use53" />
+    <use
+       xlink:href="#stripe"
+       y="200"
+       id="use55" />
+    <use
+       xlink:href="#stripe"
+       y="300"
+       id="use57" />
+    <use
+       xlink:href="#stripe"
+       y="400"
+       id="use59" />
+    <use
+       xlink:href="#stripe"
+       y="500"
+       id="use61" />
+    <use
+       xlink:href="#stripe"
+       y="600"
+       id="use63" />
+    <rect
+       width="494"
+       height="350"
+       fill="#002664"
+       id="rect65"
+       x="0"
+       y="0" />
+    <use
+       xlink:href="#u"
+       transform="matrix(650,0,0,650,247,175)"
+       id="use67" />
+  </g>
+</svg>
