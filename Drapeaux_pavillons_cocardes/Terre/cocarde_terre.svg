@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-2 {
+        stroke-width: 11.1px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 3;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #013ba6;
+      }
+
+      .cls-7 {
+        fill: #013ba6;
+      }
+
+      .cls-7, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-5 {
+        stroke-width: 11.1px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-miterlimit: 3;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-6 {
+        stroke-width: 5px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M191.6,92.9v114.3h57.1v-114.3h-57.1ZM134.5,92.9v114.3h28.6v-114.3h-28.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-3" d="M121.3,85.4l99,57.1,28.6-49.5-99-57.1-28.6,49.5ZM92.8,134.9l99,57.1,14.3-24.7-99-57.1-14.3,24.7Z"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <path class="cls-3" d="M220.3,157.5l-99,57.1,28.6,49.5,99-57.1-28.6-49.5ZM191.7,108l-99,57.1,14.3,24.7,99-57.1-14.3-24.7Z"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <path class="cls-3" d="M178.7,214.6l-99-57.1-28.6,49.5,99,57.1,28.6-49.5ZM207.2,165.1l-99-57.1-14.3,24.7,99,57.1,14.3-24.7Z"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <path class="cls-3" d="M108.4,207.1v-114.3h-57.1v114.3h57.1ZM165.5,207.1v-114.3h-28.6v114.3h28.6Z"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <path class="cls-3" d="M79.7,142.5l99-57.1-28.6-49.5-99,57.1,28.6,49.5ZM108.3,192l99-57.1-14.3-24.7-99,57.1,14.3,24.7Z"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-3" x="92.9" y="92.9" width="114.3" height="71.4"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="cls-3" points="191.6 150 134.5 107.2 134.5 192.8 191.6 150"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="cls-3" points="191.6 150 134.5 92.9 134.5 207.1 191.6 150"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="cls-3" points="129.2 186 185.8 202.2 207.2 165.1 120.7 115.1 129.2 186"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="cls-3" points="129.2 186 178.7 214.6 207.2 165.1 108.3 108 129.2 186"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="cls-3" points="170.8 186 114.2 202.2 92.8 165.1 179.3 115.1 170.8 186"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polygon class="cls-3" points="170.8 186 121.3 214.6 92.8 165.1 191.7 108 170.8 186"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="namedview10" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg8" inkscape:cx="160.75" inkscape:cy="157.75" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="991" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="2" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+  <g>
+    <circle id="circle2" class="cls-7" cx="150" cy="150" r="150"/>
+    <g>
+      <g id="ro">
+        <g class="cls-15">
+          <circle id="rb" class="cls-5" cx="191.6" cy="150" r="41.6"/>
+        </g>
+        <circle id="rw" class="cls-6" cx="191.6" cy="150" r="41.6"/>
+      </g>
+      <g id="ro-2" data-name="ro">
+        <g class="cls-11">
+          <circle id="rb-2" data-name="rb" class="cls-2" cx="170.8" cy="114" r="41.6"/>
+        </g>
+        <circle id="rw-2" data-name="rw" class="cls-4" cx="170.8" cy="114" r="41.6"/>
+      </g>
+      <g id="ro-3" data-name="ro">
+        <g class="cls-8">
+          <circle id="rb-3" data-name="rb" class="cls-2" cx="170.8" cy="186" r="41.6"/>
+        </g>
+        <circle id="rw-3" data-name="rw" class="cls-4" cx="170.8" cy="186" r="41.6"/>
+      </g>
+      <g id="ro-4" data-name="ro">
+        <g class="cls-16">
+          <circle id="rb-4" data-name="rb" class="cls-2" cx="129.2" cy="186" r="41.6"/>
+        </g>
+        <circle id="rw-4" data-name="rw" class="cls-4" cx="129.2" cy="186" r="41.6"/>
+      </g>
+      <g id="ro-5" data-name="ro">
+        <g class="cls-12">
+          <circle id="rb-5" data-name="rb" class="cls-5" cx="108.4" cy="150" r="41.6"/>
+        </g>
+        <circle id="rw-5" data-name="rw" class="cls-6" cx="108.4" cy="150" r="41.6"/>
+      </g>
+      <g id="ro-6" data-name="ro">
+        <g class="cls-18">
+          <circle id="rb-6" data-name="rb" class="cls-2" cx="129.2" cy="114" r="41.6"/>
+        </g>
+        <circle id="rw-6" data-name="rw" class="cls-4" cx="129.2" cy="114" r="41.6"/>
+      </g>
+      <g>
+        <g class="cls-9">
+          <circle id="rb-7" data-name="rb" class="cls-5" cx="150" cy="150" r="41.6"/>
+        </g>
+        <circle id="rw-7" data-name="rw" class="cls-6" cx="150" cy="150" r="41.6"/>
+      </g>
+      <g>
+        <g class="cls-10">
+          <circle id="rb-8" data-name="rb" class="cls-5" cx="191.6" cy="150" r="41.6"/>
+        </g>
+        <g class="cls-17">
+          <circle id="rw-8" data-name="rw" class="cls-6" cx="191.6" cy="150" r="41.6"/>
+        </g>
+      </g>
+      <g id="rl">
+        <g class="cls-14">
+          <circle id="rb-9" data-name="rb" class="cls-2" cx="129.2" cy="186" r="41.6"/>
+        </g>
+        <g class="cls-19">
+          <circle id="rw-9" data-name="rw" class="cls-4" cx="129.2" cy="186" r="41.6"/>
+        </g>
+      </g>
+      <g id="rl-2" data-name="rl">
+        <g class="cls-1">
+          <circle id="rb-10" data-name="rb" class="cls-2" cx="170.8" cy="186" r="41.6"/>
+        </g>
+        <g class="cls-13">
+          <circle id="rw-10" data-name="rw" class="cls-4" cx="170.8" cy="186" r="41.6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
