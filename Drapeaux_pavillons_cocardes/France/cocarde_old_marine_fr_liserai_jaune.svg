@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 316.8 316.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #000;
+      }
+
+      .cls-2 {
+        fill: #4ea2ab;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #d60000;
+      }
+
+      .cls-5 {
+        fill: #fac334;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <sodipodi:namedview id="namedview10" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg8" inkscape:cx="134.75" inkscape:cy="156.75" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="991" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="2" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
+  <circle id="circle2" class="cls-5" cx="158.4" cy="158.4" r="158.4"/>
+  <circle id="circle2-2" data-name="circle2" class="cls-4" cx="158.4" cy="158.4" r="150"/>
+  <circle id="circle4" class="cls-6" cx="158.4" cy="158.4" r="100"/>
+  <circle id="circle6" class="cls-2" cx="158.4" cy="158.4" r="50"/>
+  <path id="path8682-1" class="cls-3" d="M151.4,58.4l-.8,18.7h-42.2v11h41.5l-7.9,167.2s0,14.8-16.6,13.3c-45.6-4-60.8-30.2-60.8-30.2l6.6-4.3-28.7-23.8,4,40.4,6.5-4.1s11.7,21.1,38.8,33c24.4,9.8,39.2,10.5,55,18.4,6.9,3.4,11.7,9.3,11.7,9.3,0,0,4.8-5.9,11.7-9.3,15.8-7.9,30.6-8.6,55-18.4,27.1-11.9,38.8-33,38.8-33l6.5,4.1,4-40.4-28.7,23.8,6.6,4.3s-15.2,26.1-60.8,30.2c-16.6,1.5-16.6-13.3-16.6-13.3l-7.9-167.2h41.5v-11h-42.2l-.8-18.7h-14.2Z" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccscccccccccccccccsccccccc"/>
+  <path id="path850" class="cls-1" d="M158.4,9.4c-16.6,0-30,13.4-30,30s13.4,30,30,30,30-13.4,30-30-13.4-30-30-30ZM158.4,18.9c11.3,0,20.5,9.2,20.5,20.5s-9.2,20.5-20.5,20.5-20.5-9.2-20.5-20.5,9.2-20.5,20.5-20.5Z" inkscape:connector-curvature="0"/>
+</svg>

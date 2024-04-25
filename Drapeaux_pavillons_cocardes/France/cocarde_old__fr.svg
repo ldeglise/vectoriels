@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #ce1126;
+        fill: #4ea2ab;
       }
 
       .cls-1, .cls-2, .cls-3 {
@@ -11,7 +11,7 @@
       }
 
       .cls-2 {
-        fill: #002654;
+        fill: #d60000;
       }
 
       .cls-3 {
@@ -20,9 +20,7 @@
     </style>
   </defs>
   <sodipodi:namedview id="namedview10" bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" inkscape:current-layer="svg8" inkscape:cx="160.75" inkscape:cy="157.75" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="2" inkscape:window-height="991" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="2" objecttolerance="10" pagecolor="#ffffff" showgrid="false"/>
-  <g id="g4639">
-    <circle id="circle2" class="cls-1" cx="150" cy="150" r="150"/>
-    <circle id="circle4" class="cls-3" cx="150" cy="150" r="100"/>
-    <circle id="circle6" class="cls-2" cx="150" cy="150" r="50"/>
-  </g>
+  <circle id="circle2" class="cls-2" cx="150" cy="150" r="150"/>
+  <circle id="circle4" class="cls-3" cx="150" cy="150" r="100"/>
+  <circle id="circle6" class="cls-1" cx="150" cy="150" r="50"/>
 </svg>
